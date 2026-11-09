@@ -1,0 +1,8 @@
+{
+  "name": "CampusMate AI",
+  "description": "Intelligent college companion for engineering students to manage academics, assignments, exams, productivity, and placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
